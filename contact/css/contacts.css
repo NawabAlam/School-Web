@@ -1,0 +1,38 @@
+.map-container-section {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.map-container-section iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.back {
+  color:  #252529;
+  margin: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-family: cursive;
+}
+
+#back1 {
+  background-color: #548CFF;
+  color: white;
+}
+.contdiv {
+  background-color:  #252529;
+}
+
+.floats {
+  color: white;
+}
+
+.hov {
+  color: white;
+}
